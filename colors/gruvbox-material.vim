@@ -973,7 +973,7 @@ if s:t_Co >= 256
   hi Number ctermfg=175 ctermbg=NONE cterm=NONE
   hi Float ctermfg=175 ctermbg=NONE cterm=NONE
   hi SpecialKey ctermfg=109 ctermbg=NONE cterm=NONE
-  hi Comment ctermfg=245 ctermbg=NONE cterm=italic
+  hi Comment ctermfg=245 ctermbg=NONE cterm=NONE
   hi SpecialComment ctermfg=245 ctermbg=NONE cterm=italic
   hi Ignore ctermfg=223 ctermbg=NONE cterm=NONE
   if !s:italics
